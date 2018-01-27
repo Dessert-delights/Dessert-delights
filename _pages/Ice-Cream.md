@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /Ice-Cream/
+permalink: /about/
 title: Ice Cream
 author_profile: true
 ---
