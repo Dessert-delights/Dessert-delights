@@ -1,3 +1,7 @@
 main:
-  - title: "Ice Cream"
-    url: /Ice Cream/
+- title: "Ice Cream"
+  url: /Ice-Cream/
+- title: "Chocolate Cake"
+  url: /Chocolate Cake/
+- title: "Muffins"
+  url: /Muffins/

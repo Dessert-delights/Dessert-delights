@@ -5,7 +5,7 @@ title: Ice Cream
 author_profile: true
 ---
 
-Stuff to get
+Ingredients
 * Obtain Milk
 * Obtain coco mix
 * Obtain sugar
